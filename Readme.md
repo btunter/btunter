@@ -31,7 +31,7 @@
   </a>
   <!-- Rust -->
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" alt="rust" width="40" height="40"/>
   </a>
   <!-- Solidity -->
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
