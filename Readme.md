@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BTunter" alt="BTunter" /></a> </p>
 
-- 🌱 I’m currently learning **Python** and **ReactJS**  
+- 🌱 I’m currently learning **Python**, **Go**, **Rust**, and **Solidity**
 - ⚡ Fun fact **haxor haha**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,10 +25,20 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a> 
+  <!-- Golang -->
+  <a href="https://golang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40"/>
+  </a>
+  <!-- Rust -->
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+  </a>
+  <!-- Solidity -->
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-plain.svg" alt="solidity" width="40" height="40"/>
+  </a>
+  <!-- Huff -->
+  <a href="https://github.com/ethereum/huff" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="huff" width="40" height="40"/>
+  </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BTunter&show_icons=true&locale=en&layout=compact" alt="BTunter" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BTunter&show_icons=true&locale=en" alt="BTunter" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BTunter&" alt="BTunter" /></p>
